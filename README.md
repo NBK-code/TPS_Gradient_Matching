@@ -1,1 +1,1 @@
-# TPS_Gradient_Matching
+# Transition Path Sampling Using Gradient Matching
