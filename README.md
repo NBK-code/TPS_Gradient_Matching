@@ -60,10 +60,17 @@ The model trained on the Muller-Brown potential quickly converges allowing for s
 
 ## Citation
 
+## Citation
+
+If you use this work, please cite:
+
+```bibtex
 @article{nagaraj2024tps,
   title={Transition Path Sampling Using Gradient Matching},
   author={Nagaraj, Balakrishnan},
   year={2024}
 }
+```
+
 
 
